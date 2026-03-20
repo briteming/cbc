@@ -15,7 +15,7 @@ export default defineNuxtConfig({
   ],
   devtools: { enabled: true },
   app: {
-    baseURL: '/',
+    baseURL: '/cbc',
     head: {
       htmlAttrs: { lang: 'zh-CN' },
       link: [
